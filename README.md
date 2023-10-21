@@ -1,6 +1,10 @@
 # Here is the video you can see how the page looks.
 
-https://github.com/enesbasbug/hireara/assets/43671495/e1e5f64f-75f2-4372-a2e4-4d53daaa3a39
+
+https://github.com/enesbasbug/assessment/assets/43671495/0bd9b124-3f1b-4b73-a80e-18fdd4b8bf92
+
+
+
 
 
 # Getting Started with Create React App
